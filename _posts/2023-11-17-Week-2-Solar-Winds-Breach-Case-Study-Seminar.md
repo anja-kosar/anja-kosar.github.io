@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Network Security
+title: Network Security - Week 2 - Solar Winds Breach Seminar
 subtitle: The Solar Winds Breach Case Study
 categories: Week 2
 
