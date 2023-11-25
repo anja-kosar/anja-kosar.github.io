@@ -34,4 +34,7 @@ The MX Record for the website is mail.allthegear.org.uk
 The website is hosted by A2 Hosting, Inc. located in Amsterdam, Netherlands. 
 
 
+Throughout this scanning activity, I did not come across many challenges, other than taking some time to familiarize myself with using traceroute, as I had not used it before through the command shell. As part of my work investigations, I often use open source (OSINT) tools, which are open for use to anyone on the internet. These tools have many helpful tools that can find any information out about any domain. As the module progresses, I will do a further reflection as further scanning activities will be slightly different to this one, which will include Linux.
+
+
 
