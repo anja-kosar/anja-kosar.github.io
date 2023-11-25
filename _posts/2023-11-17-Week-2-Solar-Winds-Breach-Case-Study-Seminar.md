@@ -15,4 +15,4 @@ More than 30,000 public and private organizations -- including local, state, and
 Below table demonstrates the Cyber Kill Chain model applied to the SolarWinds breach case.
 
 
-![image](https://github.com/anja-kosar/anja-kosar.github.io/blob/ce4e6227612adebd94d5fff27126e3268f469aab/assets/images/banners/CyberKillChainSolarWinds.jpg)
+![datacamp certification](/assets/images/banners/CyberKillChainSolarWinds.jpg)
