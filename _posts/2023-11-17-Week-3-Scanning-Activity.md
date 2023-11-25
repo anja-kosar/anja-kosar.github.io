@@ -12,12 +12,12 @@ Throughout this Network Security (NS) module, from week 1, my fellow students an
 
 The scanning activity can be considered as the second phase of the assignment. The results for this scanning activity will be utilized in one of the final assignments due at the end of the module, week 6. For this scanning activity, I was given a list of tools to use, such as Traceroute, dig and NsLookup, with further instructions, mainly:
 
-•	How many hops from your machine to your assigned website?
-•	Which step causes the biggest delay in the route? What is the average duration of that delay?
-•	What are the main nameservers for the website?
-•	Who is the registered contact?
-•	What is the MX record for the website?
-•	Where is the website hosted?
+How many hops from your machine to your assigned website?
+Which step causes the biggest delay in the route? What is the average duration of that delay?
+What are the main nameservers for the website?
+Who is the registered contact?
+What is the MX record for the website?
+Where is the website hosted?
 
 I used my Windows command prompt (cmd) to traceroute to the target website. The command I used was “tracert allthegear.org.uk”. The traceroute command ended in a total of 17 hops. The biggest delay was step 6 and 7, which resulted in “request timed out”. 
 The main nameservers for the website are:
