@@ -8,7 +8,7 @@ categories: Week 5
 
 
 ## Case Study: Reviewing An Assessment Reporting Template
-This week students were required to review a PurpleSec sample template on vulnerability assessment reporting. The template consisted of:
+This week students were required to review a PurpleSec sample template on vulnerability assessment reporting. The template consisted of...
 1. Executive Summary
 2. Scan Results
 3. Methodology
