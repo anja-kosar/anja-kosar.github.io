@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Network Security - Week 5 - Case Study - Reviewing An Assessment Reporting Template
-subtitle: Case Study: Reviewing An Assessment Reporting Template
+subtitle: Case Study - Reviewing An Assessment Reporting Template
 categories: Week 5
 
 ---
