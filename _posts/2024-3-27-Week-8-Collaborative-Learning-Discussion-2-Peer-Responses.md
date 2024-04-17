@@ -10,7 +10,7 @@ categories: Week 8
 
 In this week, the collaborative learning discussion continued and students were instructed to provide at least two responses to other peer’s posts. The following represent the two peer responses:
 
-## Peer Response – Mohammed Younes
+# Peer Response – Mohammed Younes
 
 Hello Mohammed,
 
@@ -25,7 +25,7 @@ Spring, J., Hatleback, E., Householder, A., Manion, A. and Shick, D. (2021). Tim
 Gillis, A., Bacon, M. (2023). What is the CVSS (Common Vulnerability Scoring System)? TechTarget. Available at: https://www.techtarget.com/searchsecurity/definition/CVSS-Common-Vulnerability-Scoring-System. [Accessed 28 March 2024].  
 
 
-## Peer Response – Sudesh Naidoo
+# Peer Response – Sudesh Naidoo
 
 Hello Sudesh,
 
