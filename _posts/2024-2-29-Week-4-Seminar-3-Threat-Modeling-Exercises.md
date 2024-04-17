@@ -12,7 +12,7 @@ This week, students were expected to carry out a Week 4 Seminar activity during 
 The activity instructions were to read the Spears & Barki (2010) article and prepare answers to the following questions:
 Read Shostack (2018) chapters 3-5 (that cover STRIDE and DREAD, Attack Trees and Attack Libraries) as well as Spring et al (2021) (that discusses the history and some failings with CVSS) and then create a threat model based on a chosen scenario. 
 
-#For the purpose of the exercise, my choice of scenario was a large international bank based in the UK, using the STRIDE and Attack Trees. 
+# For the purpose of the exercise, my choice of scenario was a large international bank based in the UK, using the STRIDE and Attack Trees. 
 
 ## STRIDE
 STRIDE - STRIDE was created by Loren Kohnfelder and Praerit Garg in 1999 as an acronym for Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, and Elevation of privilege, to pinpoint possible vulnerabilities and threats in company products. Microsoft's STRIDE methodology is designed to guarantee that an application satisfies the security criteria of Confidentiality, Integrity, and Availability (CIA), in addition to Authorization, Authentication, and Non-Repudiation. Over time, STRIDE has developed to incorporate new tables for specific threats and its variations STRIDE-per-Element and STRIDE-per-Interaction.
