@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Security Risk Management - Week 1 – Collaborative Learning Discussion
+title: Security Risk Management - Week 1 – Collaborative Learning Discussion Initial Post
 subtitle: Initial Post
 categories: Week 1
 
