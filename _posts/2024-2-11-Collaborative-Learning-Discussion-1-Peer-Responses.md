@@ -39,6 +39,7 @@ I agree that companies need to pay attention to various different components and
 
 
 References 
+
 -Deloitte (N.D). Cyber risk in an Internet of Things world | Deloitte US. [online] Deloitte   United States. Available at: https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/cyber-risk-in-an-internet-of-things-world-emerging-trends.html. [Accessed 11 February 2024].
 
 - Li, L. (2022). Reskilling and upskilling the future-ready workforce for industry 4.0 and beyond. Information Systems Frontiers, [online] 24(3), pp.1–16. Available at: https://doi.org/10.1007/s10796-022-10308-y. [Accessed 11 February 2024]. 
