@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Security Risk Management - Week 2 – Collaborative Learning Discussion
+title: Security Risk Management - Week 2 – Collaborative Learning Discussion Peer Responses
 subtitle: Peer Response
 categories: Week 2
 
