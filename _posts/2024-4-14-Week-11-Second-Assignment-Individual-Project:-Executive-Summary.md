@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Security Risk Management – Week 11 – Second Assignment – Individual Project - Executive Summary
-subtitle: Individual Project: Executive Summary 
+subtitle: Individual Project - Executive Summary 
 categories: Week 11
 
 --- 
