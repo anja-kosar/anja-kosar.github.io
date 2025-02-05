@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Methods & Professional Practice
+title: Research Methods & Professional Practice, E-Portfolio Activity, Reflective Activity 1, Ethics in Computing in the age of Generative AI
 subtitle: E-Portfolio Activity, Reflective Activity 1
 categories: Week 1
 
