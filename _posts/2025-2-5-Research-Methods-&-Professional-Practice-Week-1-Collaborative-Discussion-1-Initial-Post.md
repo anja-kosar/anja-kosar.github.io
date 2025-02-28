@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Methods & Professional Practice, Collaborative Discussion 1, Initial Post
+title: Research Methods & Professional Practice, Week 1, Collaborative Discussion 1, Initial Post
 subtitle: Collaborative Discussion 1
 categories: Week 1
 
