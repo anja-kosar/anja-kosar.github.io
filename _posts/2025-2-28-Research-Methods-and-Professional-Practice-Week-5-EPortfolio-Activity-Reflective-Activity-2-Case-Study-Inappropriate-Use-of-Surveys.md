@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Methods & Professional Practice, E-Portfolio Activity, Reflective Activity 2, Case Study, Inappropriate Use of Surveys
+title: Research Methods & Professional Practice, Week 5, E-Portfolio Activity, Reflective Activity 2, Case Study, Inappropriate Use of Surveys
 subtitle: E-Portfolio Activity, Reflective Activity 2, Case Study, Inappropriate Use of Surveys
 categories: Week 5
 
