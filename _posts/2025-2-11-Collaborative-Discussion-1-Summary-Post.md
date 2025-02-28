@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Methods & Professional Practice, Collaborative Discussion 1, Summary Post
+title: Research Methods & Professional Practice, Week 3, Collaborative Discussion 1, Summary Post
 subtitle: Collaborative Discussion 1, Summary Post
 categories: Week 3
 
