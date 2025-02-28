@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Methods & Professional Practice, Collaborative Discussion, Peer Responses
+title: Research Methods & Professional Practice, Week 2, Collaborative Discussion, Peer Responses
 subtitle: Collaborative Discussion, Peer Responses
 categories: Week 2
 
