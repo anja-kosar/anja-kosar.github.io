@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Methods & Professional Practice, E-Portfolio Activity, Research Proposal Review
+title: Research Methods & Professional Practice, Week 3, E-Portfolio Activity, Research Proposal Review
 subtitle: E-Portfolio Activity, Research Proposal Review
 categories: Week 3
 
