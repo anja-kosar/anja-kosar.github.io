@@ -11,8 +11,11 @@ categories: Week 7
 ## Initial Post
 
 Studies with positive results are greatly more represented in literature than studies with negative results, producing so-called publication bias (Mlinaric et al., 2017). In this example, Abi faces a complex ethical dilemma. While it is possible for data to be analyzed from multiple perspectives, selectively choosing analyses to support a predetermined conclusion without a sound scientific basis is unethical. The American Statistical Association's Ethical Guidelines for Statistical Practice emphasize the importance of integrity and accountability, stating that practitioners should "support valid inferences, transparency, and good science in general" (Amstat, 2021). In addition to this guideline, the Australian Code for Responsible Research conduct explicitly prohibits misleading reporting practices that could distort scientific evidence (National Health and Medical Research Council, 2019).
+
 Therefore, Abi is ethically obligated to present both favorable and unfavorable analyses if they are methodologically sound. Selectively reporting only positive correlations while omitting evidence of potential harm constitutes research bias and violates principles of scientific integrity. The principle of beneficence in research ethics requires researchers to maximize benefits and minimize harm (Barrow et al., 2022). 
+
 Generally, the uses of scientific research are determined not by the researchers themselves but by employers, commercial private sector entities, government agencies, including the military, healthcare workers, the media, other members of the public, or in any case, individuals or groups that are only indirectly, or even completely, unrelated to the researchers. Basic science researchers have little, if any, control of the uses or misuse of their research. The general perspective within and even beyond the research community has long been that it is the user, not the researchers who should be held responsible for how research findings are used, a view that remains widely held (Kline 2013).
+
 The mentioned ethical guidelines commonly emphasize the requirements of transparency, accountability and balanced ethical research. While Abi cannot control final publication decisions, his professional obligation is to ensure all relevant evidence is properly documented and accessible. 
 
 References:
