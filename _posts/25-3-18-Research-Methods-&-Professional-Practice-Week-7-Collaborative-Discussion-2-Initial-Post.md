@@ -19,6 +19,7 @@ Generally, the uses of scientific research are determined not by the researchers
 The mentioned ethical guidelines commonly emphasize the requirements of transparency, accountability and balanced ethical research. While Abi cannot control final publication decisions, his professional obligation is to ensure all relevant evidence is properly documented and accessible. 
 
 References:
+
 American Statistical Association (2022). Ethical guidelines for statistical practice. [online] American Statistical Association. Available from: https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice. [Accessed 18 March 2025].
 
 National Health and Medical Research Council (2019). Management of Data and Information in Research A guide supporting the Australian Code for the Responsible Conduct of Research. [online] Available from: https://www.nhmrc.gov.au/sites/default/files/documents/attachments/Management-of-Data-and-Information-in-Research.pdf. [Accessed 18 March 2025].
