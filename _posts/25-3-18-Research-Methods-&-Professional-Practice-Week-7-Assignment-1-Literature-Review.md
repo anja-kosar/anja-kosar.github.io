@@ -15,9 +15,13 @@ Literature review on app development for emergency services (healthcare).
 Research Question: How do emergency service mobile applications integrate with existing emergency systems? Focusing on interoperability challenges. 
 
 Author: Anja Kosar
+
 Student ID: 12692515
+
 Module: Research Methods and Professional Practice
+
 University of Essex
+
 MSc Cyber Security
 
 1.	Introduction
