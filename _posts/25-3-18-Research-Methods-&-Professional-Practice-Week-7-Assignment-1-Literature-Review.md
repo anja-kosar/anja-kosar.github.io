@@ -53,6 +53,7 @@ While both apps leverage mobile technology to improve healthcare access, their s
 In conclusion, the integration of mobile applications like GoodSAM with existing emergency healthcare systems remains a complex challenge, with interoperability being the most significant barrier to widespread adoption. While both platforms leverage mobile technology for healthcare delivery, their scopes differ significantly. The NHS App excels in providing routine healthcare services but struggles with fragmented integration and variability across practices. In contrast, GoodSAM specializes in life-saving emergency interventions but faces challenges related to responder density and sustained volunteer engagement. Both platforms demonstrate unique strengths within their respective domains but highlight the complexities of integrating digital tools into healthcare systems.
 
 References:
+
 Mosa, A.S.M., Yoo, I. and Sheets, L. (2012). A Systematic Review of Healthcare Applications for Smartphones. BMC Medical Informatics and Decision Making, [online] 12(1). doi: https://doi.org/10.1186/1472-6947-12-67. [Accessed 12 March 2025].
 
 Kao, C.-K. and Liebovitz, D.M. (2017). Consumer Mobile Health Apps: Current State, Barriers, and Future Directions. PM&R, [online] 9(5), pp.S106–S115. doi: https://doi.org/10.1016/j.pmrj.2017.02.018. [Accessed 12 March 2025].
