@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Methods & Professional Practice, Week 8, Collaborative Discussion 2, Summary Post
+title: Research Methods & Professional Practice, Week 9, Collaborative Discussion 2, Summary Post
 subtitle: Collaborative Discussion 2, Summary Post
 categories: Week 9
 
