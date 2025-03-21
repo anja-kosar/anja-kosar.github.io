@@ -33,10 +33,10 @@ The research proposal will take on a mixed-method approach by combining:
 -	Qualitative (this will include literature, web sources and known cases)
 -	Quantitative (this will include stats from interviews/surveys from law enforcement and cybercrime organizations/firms, analysis of Europol/Cert data on investigation outcomes, surveys on law enforcement agency cases)
 
-5.	Ethical considerations and risk assessment
+5. Ethical considerations and risk assessment
    
 With any law enforcement or other legal investigation, ethical considerations and case sensitivity must be considered. For example, avoiding re-identification of cyber victims. Consent and risk mitigation. In the case of gathering our own data and conducting surveys etc. consent would be a priority, as well as protecting the identities of participants (anonymity). 
 
-6.Description of artefacts that will be created and timeline. 
+6. Description of artefacts that will be created and timeline. 
 
 The proposal will be presented as a Power Point presentation, along with audio and transcript of material. For the timeline, students have been provided with a deadline for this assignment, which is Monday 7 April, 2025 11:55PM.
