@@ -10,8 +10,11 @@ categories: Week 9
 ## Summary Post
 
 Abi’s dilemma in analyzing and reporting data on the nutritional value of Whizzz cereal raises critical questions about the balance between professional integrity, transparency and commercial interests. As a statistical programmer, Abi is subject to ethical standards, which stress the significance of honesty and fairly reporting data, regardless of the outcome. Ethical research practices require that findings be fully reported to prevent selective or misleading interpretation, which could harm public health or mislead stakeholders (Amstat, 2021; National Health and Medical Research Council, 2019).
+
 One of the main ethical principles Abi must consider is transparency. Research ethics, as highlighted by the American Statistical Association (Amstat, 2021), demand that researchers “support valid inferences” and uphold rigorous integrity. In line with these principles, Abi should report both positive and negative findings from his analysis, as omitting potentially harmful results would not only be unethical but could also violate the principle of beneficence, which aims to minimize harm and maximize benefits (Barrow et al., 2022).
+
 Additionally, publication bias, where positive results are overrepresented in scientific nature, is a well-documented issue (Mlinaric et al., 2017). Abi must resist the temptation to selectively present results that favor the commercial interests of the manufacturer, as doing so could distort public perception and mislead consumers about health benefits of Whizzz. 
+
 Another important consideration is Abi’s professional obligation under data protection regulations like GDPR, which emphasize transparency and accountability in data handling (EDPB, 2021). While Abi may not have control over how the findings are ultimately used, he is still ethically obligated to ensure that the data he reports is complete and documented responsibly. 
 
 References:
