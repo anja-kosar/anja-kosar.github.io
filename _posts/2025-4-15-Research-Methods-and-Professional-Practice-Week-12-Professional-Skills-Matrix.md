@@ -10,8 +10,6 @@ categories: Week 12
 
 ## Professional Skills Matrix
 
-![Matrix1](https://github.com/user-attachments/assets/4a563eb9-44b4-49a4-8bb8-c91dd738700f)
-
-![Matrix2](https://github.com/user-attachments/assets/53842106-bd72-482b-bbb9-8a497d48ec97)
+[Professional Skills Matrix.xlsx](https://github.com/user-attachments/files/19762346/Professional.Skills.Matrix.xlsx)
 
 
