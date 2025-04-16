@@ -127,6 +127,7 @@ Lastly, digital communication and presentation skills, while much improved, stil
 3.1 SWOT Analysis
 
 Strengths	
+
 Developed strong ethical awareness and academic integrity through reflective tasks, assignments and peer discussions.
 
 Improved academic writing and research planning through literature review and presentation assignments. 
