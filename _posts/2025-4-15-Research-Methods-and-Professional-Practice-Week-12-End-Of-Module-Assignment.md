@@ -168,6 +168,8 @@ References:
 
 Acm.org. (2024). Case Study: Malware Disruption. [online] Available from: https://www.acm.org/code-of-ethics/case-studies/malware-disruption. [Accessed 14 April 2025].
 
+Clarke, J. (2025). What are tariffs and why is Trump using them? BBC. [online] 3 Feb. Available at: https://www.bbc.com/news/articles/cn93e12rypgo. [Accessed 16 April 2025].
+
 Corrêa, N. K., Galvão, C., Santos, J. W., Del Pino, C., Pinto, E. P., Barbosa, C., Massmann, D., Mambrini, R., Galvão, L., Terem, E., & de Oliveira, N. (2023). Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance. Patterns (New York, N.Y.), 4(10), 100857. Available from: https://doi.org/10.1016/j.patter.2023.100857 [Accessed 14 April 2025].
 
 European Commission (2023). Data protection. [online] commission.europa.eu. Available from: https://commission.europa.eu/law/law-topic/data-protection_en. [Accessed 28 February 2025].
